@@ -292,3 +292,5 @@ Enable-VMResourceMetering -VMName "YourVMName"
 # Configure Smart Paging file location
 Set-VM -VMName "YourVMName" -SmartPagingFilePath "C:\Path\to\SmartPagingFile"
 ```
+
+Source: https://hyper-v-backup.backupchain.com/the-ultimate-hyper-v-powershell-commands-cheat-sheet/
